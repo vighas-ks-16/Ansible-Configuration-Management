@@ -1,2 +1,2 @@
-# Ansible-Configuration-Management-of-Servers
+# Ansible-Configuration-Management
 Configuration Management of Servers using Ansible
